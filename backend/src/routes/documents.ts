@@ -39,7 +39,6 @@ documentsRouter.post('/validate', async (req, res) => {
     if (!req.file) {
       return res.status(400).json({ message: 'PDF file is required' });
     }
-
     const rules = parseRules(req.body.rules);
 
     if (rules.length === 0) {
