@@ -2,7 +2,7 @@ Here is the transformed text in your writing pattern: simple, direct, slightly i
 
 ---
 
-# NIYAMR AI – PDF Rule Checker
+# PDF Rule Checker
 
 ![screenshot](./screenshot/ui.png)
 
